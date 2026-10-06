@@ -1,52 +1,69 @@
-AgentLease Fair Source License 1.0
-(adapted from the Business Source License model)
+AgentLease Customer License 1.0
 
-Licensor:             Rajesh Bhan ("AgentLease")
-Licensed Work:         This repository and all source files within it
-Additional Use Grant:  You may use, copy, modify, and self-host the Licensed
-                        Work for your own internal infrastructure, for a
-                        single organization, free of charge, including in
-                        production. You may NOT offer the Licensed Work, or
-                        a modified version of it, to third parties as a
-                        hosted or managed service (including a competing
-                        agent-leasing or infrastructure-automation platform)
-                        without a separate commercial agreement with
-                        Licensor.
-Change Date:            Four years from the date each file is published
-Change License:         Apache License, Version 2.0
+Copyright (c) 2026 Rajesh Bhan (AgentLease). All rights reserved.
 
----
+Licensor:       Rajesh Bhan, doing business as AgentLease (agent4lease.com)
+Licensed Work:  The source code, scripts, prompts and documentation in this
+                repository, as delivered to you through the AgentLease
+                control plane.
 
-1. The Licensor hereby grants you the right to copy, modify, create
-   derivative works, redistribute, and make non-production use of the
-   Licensed Work, subject to the Additional Use Grant above and the
-   limitations below.
+THIS IS NOT AN OPEN-SOURCE LICENSE. The Licensed Work is proprietary software
+made available only to customers with an active AgentLease lease (a paid
+subscription, or a written agreement with the Licensor).
 
-2. You may make production use of the Licensed Work only as permitted by
-   the Additional Use Grant, or once you have a commercial agreement with
-   the Licensor.
+1. Grant. While your lease is active and you comply with this license, the
+   Licensor grants you a non-exclusive, non-transferable, non-sublicensable,
+   revocable license to download, install, run and modify the Licensed Work
+   for the internal operations of the single organization named on your
+   lease, on infrastructure that organization controls, up to the number of
+   agents and data planes included in your plan.
 
-3. If your use of the Licensed Work does not comply with the Additional
-   Use Grant, you must either (a) obtain a commercial license from the
-   Licensor, or (b) refrain from that use.
+2. Restrictions. You may not, and may not allow anyone else to:
+   (a) copy, publish, sell, rent, sublicense or otherwise distribute the
+       Licensed Work or any modified version of it to any third party;
+   (b) offer the Licensed Work, or any service built substantially on it, to
+       third parties as a hosted, managed or competing agent-leasing or
+       infrastructure-automation service;
+   (c) share your pairing token, or use one lease for more organizations,
+       agents or data planes than your plan allows;
+   (d) remove, disable or circumvent license checks, pairing, heartbeat or
+       telemetry features, or any copyright or license notice;
+   (e) use the Licensed Work to build a product that competes with AgentLease.
 
-4. On the Change Date specified above for a given file, the terms of this
-   license for that file automatically convert to the Change License
-   specified above, and you may use that file under the terms of the
-   Change License.
+3. Term and termination. This license lasts for the period of your active
+   lease. It ends automatically if your lease is cancelled, revoked or not
+   renewed, or if you breach this license. On termination you must stop using
+   the Licensed Work and delete all copies of it in your possession or
+   control. The Licensor may revoke a lease for non-payment or breach.
 
-5. All copies of the Licensed Work must include this license and the
-   above notices.
+4. Updates. You receive updates to the Licensed Work only while your lease is
+   active. Versions you already hold may not be used after termination.
 
-6. THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
-   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR
-   NON-INFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY
-   CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE LICENSED
-   WORK.
+5. Ownership. The Licensor retains all rights, title and interest in the
+   Licensed Work. No rights are granted except those expressly stated here.
+   Your own configuration, infrastructure and data remain yours.
 
-7. This license does not grant you any right in any trademark or logo of
-   Licensor or its affiliates.
+6. Third-party components. Open-source dependencies installed by the Licensed
+   Work remain under their own licenses.
 
-For a commercial license to use the Licensed Work in a hosted or managed
-service, contact: Rajesh Bhan, AgentLease (agent4lease.com)
+7. Trademarks. This license grants no right to use the AgentLease name, logo
+   or other marks.
+
+8. Warranty disclaimer. THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT
+   WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND
+   NON-INFRINGEMENT. The Licensed Work automates changes to infrastructure;
+   you are responsible for testing it in a safe environment, reviewing what
+   it will do, and maintaining backups before you run it against production.
+
+9. Limitation of liability. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE
+   LICENSOR WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR
+   CONSEQUENTIAL DAMAGES, OR FOR LOSS OF DATA, PROFITS OR REVENUE, AND THE
+   LICENSOR'S TOTAL LIABILITY WILL NOT EXCEED THE FEES YOU PAID FOR THE
+   LEASE IN THE TWELVE MONTHS BEFORE THE CLAIM.
+
+10. General. This license is governed by the laws of the State of California,
+    USA, excluding its conflict-of-laws rules. If any part is unenforceable,
+    the rest remains in effect.
+
+Questions, or a written agreement for other uses: agent4lease.com
